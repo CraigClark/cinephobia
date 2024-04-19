@@ -7,7 +7,8 @@
     <language>en-CA</language>
     <author>Stuart F. Andrews</author>
     <image>
-      <!-- Replace with the full path to your icon -->
+      <!-- Replace with the full path to your icon
+      this is the main podcast image -->
       <url>https://craigclark.ca/cinephobia/podcast/icon.png</url>
     </image>
     <itunes:author>Stuart F. Andrews</itunes:author>
