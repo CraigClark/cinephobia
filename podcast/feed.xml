@@ -6,6 +6,14 @@
     <link>https://cinephobia-radio.com/</link>
     <language>en-CA</language>
     <itunes:author>Stuart F. Andrews</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Film History"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Stuart F. Andrews</itunes:name>
+      <itunes:email>contact@cinephobia-radio.com</itunes:email>
+    </itunes:owner>
 
     <image>
       <url>https://craigclark.ca/cinephobia/podcast/icon.png</url>
