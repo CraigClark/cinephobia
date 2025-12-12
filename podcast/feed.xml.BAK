@@ -14,16 +14,6 @@
     <itunes:author>Stuart F. Andrews</itunes:author>
     <itunes:image href="https://craigclark.ca/cinephobia/podcast/icon.png"/>
     
-    <!-- Episode 32: Freedom Floatilla | Episode 34 -->
-    <item>
-      <title>Freedom Floatilla | Episode 34</title>
-      <description>Freedom Floatilla</description>
-      <pubDate>2024-04-19</pubDate>
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-034.mp3" length="344900000" type="audio/mpeg"/>
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/cr-002-test.png"/>
-    </item>
-
-    
     <!-- Episode 001: Malcolm Macdowell -->
     <item>
       <!-- You can title whatever you want, I prefer not starting with the episode number because in a podcast app,
@@ -66,6 +56,32 @@
       <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-032.mp3" length="133900000" type="audio/mpeg"/>
       <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-002.png"/>
     </item>
-    
+
+        <!-- Episode 33: Velvet Buzzsaw 33 -->
+    <item>
+      <title>Velvet buzzsaw 3 | Episode 33</title>
+      <description>Buzz buzz buzz</description>
+      <pubDate>2024-05-10</pubDate>
+      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-033.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-003.png"/>
+    </item>
+
+    <!-- Episode 34: Freedom Floatilla 34-->
+    <item>
+      <title>Freedom Flotilla | Episode 34</title>
+      <description>Floaty float float</description>
+      <pubDate>2024-06-30</pubDate>
+      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-034.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-034.png"/>
+    </item>
+
+    <!-- Episode 35: Velvet Buzzsaw 35-->
+    <item>
+      <title>Velvet buzzsaw 4 | Episode 35</title>
+      <description>Buzz buzz buzz</description>
+      <pubDate>2024-07-30</pubDate>
+      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-035.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-035.png"/>
+    </item>
   </channel>
 </rss>

@@ -2,86 +2,429 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Cinephobia Radio</title>
-    <description>A short description goes here, somewhere between 100 and 300 words. Though there are no technology-imposed min/max.</description>
+    <description>A radio show hosted by Stuart Feedback Andrews &amp; a random gaggle of cinephobiacs who irresponsibly plunder the worlds of cinema, rock &amp; roll, politrix, science (TM), combat sports &amp; whatever else tickles our winkles.</description>
     <link>https://cinephobia-radio.com/</link>
     <language>en-CA</language>
-    <author>Stuart F. Andrews</author>
-    <image>
-      <!-- Replace with the full path to your icon
-      this is the main podcast image -->
-      <url>https://craigclark.ca/cinephobia/podcast/icon.png</url>
-    </image>
     <itunes:author>Stuart F. Andrews</itunes:author>
-    <itunes:image href="https://craigclark.ca/cinephobia/podcast/icon.png"/>
-    
-    <!-- Episode 001: Malcolm Macdowell -->
+
+    <image>
+      <url>https://craigclark.ca/cinephobia/podcast/icon.png</url>
+      <title>Cinephobia Radio</title>
+      <link>https://cinephobia-radio.com/</link>
+    </image>
+
+    <!-- THE VELVET BUZZSAW PART FIVE | Episode 36 -->
     <item>
-      <!-- You can title whatever you want, I prefer not starting with the episode number because in a podcast app,
-       screen size is limited so I only see the episode number, the rest is cut off. I hate that.
-        I have no clue what Episode 47 is -->
-      <title>Malcolm Macdowell | Episode 1</title>
-      <description>Description of Episode 1</description>
-      <!-- Customize the date format to whatever you like, but keep it consistent-->
-      <pubDate>2023-06-06</pubDate>
-      <!-- Length refers to the filesize in bytes.
-      Your computer probable shows size in MB, 
-      convert it here: https://www.xconvert.com/unit-converter/megabytes-to-bytes -->
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-001.mp3" length="98800000" type="audio/mpeg"/>
-      <!-- Add the episode-specific image here 
-      I couldn't get this to work, you might need to update the ID3 tags
-      with artwork that meets apple criteria https://podcasters.apple.com/support/896-artwork-requirements
-      AND add the image here. I'd try both.
-      When this fails, it shows the image for the podcast.
-      -->
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-001.png"/>
+      <title>THE VELVET BUZZSAW PART FIVE | Episode 36</title>
+      <description><![CDATA[
+Greeting Earthlings,
+
+Unlike many of the Velvet Buzzsaw’s previous forays into the harsh and unforgiving netherworld of dissident dysphoria, there’s almost a vague sense of hope and optimism in this one.
+
+Almost.
+
+But I promise you. I won’t let it happen again.
+
+Slooshy well my darling Droogies.
+
+Slooshy well.
+
+— Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-036-velvet-buzzsaw-5.mp3"
+        length="236900000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/velvet-buzzsaw-5.png"/>
     </item>
 
-    <!-- Episode 2: A Century of Stop-Motion Animation -->
+    <!-- THE VELVET BUZZSAW CHAPTER FOUR | Episode 35 -->
     <item>
-      <title>A Century of Stop-Motion Animation | Episode 2</title>
-      <description>Description of Episode 2</description>
-      <pubDate>2024-04-17</pubDate>
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-002.mp3" length="133900000" type="audio/mpeg"/>
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-002.png"/>
-    </item>
-    
-    <!-- Add more episodes as needed 
-    I recommend adding a space and a comment between each one -->
+      <title>THE VELVET BUZZSAW CHAPTER FOUR | Episode 35</title>
+      <description><![CDATA[
+PRAYING TO THE ALIENS
 
-    <!-- Episode 32: Velvet Buzzsaw 32 -->
-    <item>
-      <title>Velvet buzzsaw 2 | Episode 32</title>
-      <description>Buzz buzz buzz</description>
-      <pubDate>2024-04-17</pubDate>
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-032.mp3" length="133900000" type="audio/mpeg"/>
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-002.png"/>
+Greetings Earthlings,
+
+I’m writing to you from the lunatic nation of Canada where all 338 Members of Parliament stood up en masse to applaud an actual Nazi in the House of Commons...
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-035-velvet-buzzsaw-4.mp3"
+        length="250000000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/velvet-buzzsaw-5.png"/>
     </item>
 
-        <!-- Episode 33: Velvet Buzzsaw 33 -->
+    <!-- Episode 34: Freedom Floatilla | Episode 34 -->
     <item>
-      <title>Velvet buzzsaw 3 | Episode 33</title>
-      <description>Buzz buzz buzz</description>
-      <pubDate>2024-05-10</pubDate>
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-033.mp3" type="audio/mpeg"/>
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-003.png"/>
+      <title>Freedom Floatilla | Episode 34</title>
+      <description><![CDATA[
+Greetings Earthlings,
+
+My guest on this episode is the retired FBI agent, whistleblower and tireless anti-war activist, Coleen Rowley.
+      ]]></description>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:author>Stuart F. Andrews</itunes:author>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-034-freedom-floatilla.mp3"
+        length="344900000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/freedom-flotilla.png"/>
     </item>
 
-    <!-- Episode 34: Freedom Floatilla 34-->
+    <!-- THE VELVET BUZZSAW 3 IN 3D! | Episode 33 -->
     <item>
-      <title>Freedom Flotilla | Episode 34</title>
-      <description>Floaty float float</description>
-      <pubDate>2024-06-30</pubDate>
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-034.mp3" type="audio/mpeg"/>
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-034.png"/>
+      <title>THE VELVET BUZZSAW 3 IN 3D! | Episode 33</title>
+      <description><![CDATA[
+THE THIRD DIMENSION IS TERROR
+      ]]></description>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-033-velvet-buzzsaw-3.mp3"
+        length="354600000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/velvet-buzzsaw-3.png"/>
     </item>
 
-    <!-- Episode 35: Velvet Buzzsaw 35-->
+    <!-- THE VELVET BUZZSAW 2 | Episode 32 -->
     <item>
-      <title>Velvet buzzsaw 4 | Episode 35</title>
-      <description>Buzz buzz buzz</description>
-      <pubDate>2024-07-30</pubDate>
-      <enclosure url="https://craigclark.ca/cinephobia/podcast/audio/CR-035.mp3" type="audio/mpeg"/>
-      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/cr-035.png"/>
+      <title>THE VELVET BUZZSAW 2 | Episode 32</title>
+      <description><![CDATA[
+THE BUZZSAW IS BACK…
+      ]]></description>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-032-velvet-buzzsaw-2.mp3"
+        length="294600000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/velvet-buzzsaw-2.png"/>
     </item>
+
+    <!-- WINSTON THE HOMICIDAL D.J. | Episode 31 -->
+    <item>
+      <title>WINSTON THE HOMICIDAL D.J. | Episode 31</title>
+      <description><![CDATA[
+A REQUIEM FOR THE APOCALYPSE
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-031-winston-the-homicidal-dj.mp3"
+        length="296500000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/winston-the-homicidal-dj.png"/>
+    </item>
+
+    <!-- THE VELVET BUZZSAW | Episode 30 -->
+    <item>
+      <title>THE VELVET BUZZSAW | Episode 30</title>
+      <description><![CDATA[
+A FANTASTIC VOYAGE INTO THE MAGICAL WONDERLAND OF CULTURAL PSYCHOSIS
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-030-velvet-buzzsaw-1.mp3"
+        length="362900000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/velvet-buzzsaw-1.png"/>
+    </item>
+
+    <!-- BIRDEMIC: SHOCK AND TERROR | Episode 29 -->
+    <item>
+      <title>BIRDEMIC: SHOCK AND TERROR | Episode 29</title>
+      <description><![CDATA[
+        This is easily one of the weirdest interviews I’ve ever done in my pseudo radio career. Back in 2010, director James Nguyen came to Toronto for the Canadian premiere of his couch-change funded disasterpiece, Birdemic: Shock and Terror. Sometime after the Q&A, after the drinks and before he left for the airport at 6 a.m., I cornered him for this one hour interrogation.
+
+        I went through a whole range of thoughts and feelings during both the interview and the editing process, and again when I revisited the piece to remaster and remix for this incarnation of Cinephobia Radio.
+
+        James is a nice chap and a pleasure to hang out with, but he was absolutely convinced that audiences were gobbling up his movie because, despite the budgetary shortcomings and technical imperfections, ultimately they were connecting to the world of the film itself, to the characters, the love story, the Hitchcockian plot and the overpowering environmental themes.
+
+        Being the card-carrying cynic that I am (for some perspective, my best friend is a homicidal computer), I didn’t have the heart to tell him that most of the so-called “cinephiles” out there are little more than emotionally suspended infants who love nothing more than to congregate in public settings to mock and jeer films regardless of genre, intent or how inherently ridiculous a particular work may or may not be. These are invariably the same Trembling Gibbles who openly tweet about how terrified they are to get on public transit because of passengers not wearing evidence-free medical-looking masks, funky, multi-coloured bandanas wrapped around their faces or flimsy pieces of cloth with cute pictures of cartoon characters on them hanging from their ears. One can only assume they feel compelled to belittle works of cinema in order to feel superior to whatever is being unspooled in front of their eyes, possibly as a means of compensating for their paralyzing feelings of inadequacy and/or chronic, free-floating anxiety.
+
+        The culturally paralyzed, self-conscious metropolis of Toronto is a particularly extreme cesspool of this disposition although I’m hearing from all corners of North America that the affliction is spreading throughout the continent like gangrene. For instance, a friend of mine just went to viddy a 35mm screening of To Live and Die in L.A. as part of a William Friedkin tribute and apparently, the chuckleheads were out in droves, boisterously guffawing their way through what is arguably one of the greatest crime films of the 1980’s. If the Friedkin classic isn’t immune to the snorting, snickering and chortling, I think it’s safe to assume that the species has now amused itself to death.
+
+        Usually when I’m editing an interview, I will often remove pauses and hesitations from the finished audio in order to make the conversation flow more smoothly. But in this instance, I left them all in, because it’s in the pregnant pauses where this interview is most compelling. In response to some of my more direct lines of inquiry, you can almost hear the cogs and wheels of Nguyen’s mental machinations working desperately to reconcile the inherent cognitive dissonance embedded within his eventual responses.
+
+        But there’s another perversely celebratory, possible perspective on the whole thing. Nguyen is genuinely enthusiastic about and passionate about being a filmmaker. Those qualities radiate clearly throughout the interview, so regardless of any of Birdemic’s virtues or cinematic sins, and despite what audiences may or may not be legitimately resonating with, Nguyen, by way of a happy accident, has found himself in a position to continue practising the thing he loves most. Filmmaking is a cruel mistress and a slimy business but Nguyen, in a bizarre way, has weirdly triumphed. He’s taken advantage of a declining culture to carve out a strange niche for himself and if you ever meet the bloke, and see how innocent, enthusiastic and sweet he actually is, you wouldn’t begrudge him for any of it.
+
+        Incredibly, he’s since made two sequels to the movie and Severin Films have compiled a Blu-ray boxset cleverly titled Wings of Disaster: The Birdemic Trilogy. It features a jaw-dropping 13 hours of bonus features, you know, just in case you’re recovering from a lobotomy and are in desperate need of something to viddy.
+
+        So until next time, slooshy well my little droogies,
+
+        Slooshy Well.
+
+        — Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-029-birdemic-shock-and-terror.mp3"
+        length="184400000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/birdemic-shock-and-terror.png"/>
+    </item>
+
+    <!-- THE CONFORMITY CULTURE VULTURES VOL. II | Episode 28 -->
+    <item>
+      <title>THE CONFORMITY CULTURE VULTURES VOL. II | Episode 28</title>
+      <description><![CDATA[
+        Ladies and Gentlemen,
+
+        The moment has arrived. For your listening endurement, allow me to present the thrilling conclusion of The Conformity Culture Vultures.
+
+        Trigger Warning: Various portions of this episode have been scientifically proven to induce paralyzing bouts of extreme cognitive dissonance in Milgram Muppets, Jabber Wankers, Muzzle Monkeys and Trembling Gibbles. If you suffer from any of these afflictions, I strongly urge you to stay glued to your telescreens with your mouths wide open, nodding your head in unison to the endlessly contradictory syllables spat out by the man on TV, the only Doctor that ever mattered, the only Doctor you ever need to hear from (the only Doctor you’re ever allowed to hear from) and the very embodiment of The Science ™ itself, the one, the only, Dr. Anthony Fauci (No, he’s not a Batman villain, he’s an actual real person! I promise).
+
+        So break out the Rebel Yell, the Ginger Beer and don’t forget to scrub your limes!
+
+        Slooshy well my little Droogies….
+
+        Slooshy well.
+
+        — Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-028-conformity-culture-vultures-2.mp3"
+        length="272200000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/conformity-culture-vulture-2.png"/>
+    </item>
+
+    <!-- THE CONFORMITY CULTURE VULTURES VOL. I | Episode 27 -->
+    <item>
+      <title>THE CONFORMITY CULTURE VULTURES VOL. I | Episode 27</title>
+      <description><![CDATA[
+        Cinephobia Radio returns after seven years in the wilderness!
+
+        So the big question is, “Why?” What on earth would possess me to bring such a thing back?
+
+        What could Cinephobia Radio have to contribute to a failed culture where every single facet has been corporate captured, where blind, unquestioning obedience has been hailed as a progressive virtue, where super edgy, hardcore, transgressive culture vultures turned out to be pro-censorship, pro-Wall Street, Trembling Gibbles, where Milgram Muppets, Muzzle Monkeys and Jabber Wankers believe they possess a healthy distrust of authority yet were proud to submit to experimental gene transfer injections manufactured by serial corporate criminals and then virtue signal their compliance for all the world to see, where 99.99% of our anti-establishment, dissident heroes turned out to be easily brainwashed, effortlessly terrorized, partisan deranged shills for a criminally insane pharmaceutical industry, one of the most powerful and malignant, if not demonic forces on planet earth?
+
+        Well, the good news is, my brothers and sisters, these questions and many more will be answered in this epic two-part series. In fact, almost all the problems of the known universe will be solved on these episodes, and the amazing thing about that is, they’re completely free! So even though it took me a gazillion hours to put together, you get to listen for absolutely nothing.
+
+        Incredible, isn’t it?
+
+        And what on earth would possess me to do such a crazy thing, you ask? I’ll be honest with ya. The Gods made me do it. I had almost no choice in the matter.
+
+        Slooshy well my little Droogies….
+
+        Slooshy well.
+
+        — Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-027-conformity-culture-vultures-1.mp3"
+        length="284100000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/conformity-culture-vulture-1.png"/>
+    </item>
+
+    <!-- JUNGLE GATE VOL. I | Episode 23 -->
+    <item>
+      <title>JUNGLE GATE VOL. I | Episode 23</title>
+      <description><![CDATA[
+        Ex-Horror Journalist Dave Pace joins me for a bumpy ride through the wilderness of mirrors and river of tears that is JUNGLE GATE, the weird and wacky marketing campaign for Eli Roth’s, ‘anti-SJW’ cannibal epic, The Green Inferno.
+
+        Slooshy well my little Flesh Eaters…
+
+        Slooshy well.
+
+        — Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-023-junglegate-vol-1.mp3"
+        length="242000000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/junglegate-vol-1.png"/>
+    </item>
+
+    <!-- THE ST. VALENTINE’S DAY MUSICAL MASSACRE | Episode 16 -->
+    <item>
+      <title>THE ST. VALENTINE’S DAY MUSICAL MASSACRE | Episode 16</title>
+      <description><![CDATA[
+        For all you lovers and ex-lovers, loners, lechers and lepers, malchicks, devotchkas, screwheads, deadheads, winners and losers and miners for truth and delusion….
+
+        A St. Valentine’s Day Musical Massacre in five sleazy pieces:
+
+        I. The Honeymoon.
+        II. The Bickering.
+        III. The Resentment.
+        IV. The Revenge.
+        V. The Redemption.
+
+        So curl up with the one you love to hate and slooshy well my crazy diamonds.
+
+        — Stuart Feedback Andrews xo
+      ]]></description>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-016-st-valentines-music-mssacre.mp3"
+        length="74300000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/valentines-music-massacre.png"/>
+    </item>
+
+    <!-- TOMB DRAGOMIR’S TRIPLE XXXMASSS XTRAVAGANZA | Episode 13 -->
+    <item>
+      <title>TOMB DRAGOMIR’S TRIPLE XXXMASSS XTRAVAGANZA | Episode 13</title>
+      <description><![CDATA[
+
+      A PUNK ROCK FESTIVUS FOR THE REST OF US
+
+      If you’re in need of a bit of radio mayhem over the holidays, this schizophrenic Christmas collage should suffice.
+
+      Sliced and diced by the one and only Sir Tomb Dragomir many moons ago when Cinephobia Radio was on CKLN 88.1 FM, this is nothing less than a candy cane-coloured, fruitcake-flavoured musical nervous breakdown. Guaranteed to liven up any of those potentially dreary and/or traumatic family holiday get togetthers.
+
+      It’ll warm the cockles of your heart and the testicles of your soul.
+
+      Slooshy well my little red nosed reindeers and until next time…
+
+      Have a Christmas!
+
+      Stuart Feedback Andrews xo
+
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-013-tomb-dragomir.mp3"
+        length="89300000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/tomb-dragomir-christmas.png"/>
+    </item>
+
+    <!-- THE ZEROES PART 3 IN 3D! | Episode 6 -->
+    <item>
+      <title>THE ZEROES PART 3 IN 3D! | Episode 6</title>
+      <description><![CDATA[
+        A NEW DIMENSION IN TERROR
+
+        Welcome to a special edition of The Zeroes: Best and Worst of the Decade! This time, we celebrate the thriving genre movie scene in Cinephobia Radio’s once upon a time home base of Toronto, Onterrible.
+
+        Throughout the illustrious zeroes, the city emerged as an epicentre of genre film appreciation, due in large part to the work of the contributors featured on this episode. They collectively represented entities that, although based in Canada’s largest metropolis, made a far reaching, international impact on the culture of cult cinema in general.
+
+        So grab a Tim Horton’s, break out the Kraft Dinner and brace yourself for the 3D vocal stylings of Dave Alexander (former Editor-In-Chief of Rue Morgue Magazine), Colin Geddes (former Midnight Madness Programmer at the Toronto International Film Festival), Todd Brown (Founder and Editor of Twitch Film) and last (and arguably least), my once upon a time good friend and sworn enemy, Mr. Chris Alexander (who at the time of this recording was the newly anointed Editor-In-Chief of legendary horror magazine, Fangoria.)
+
+        That’s right, folks! Believe it or not, the brains of America’s Horror Magazine was located in the sleepy, one-horse town of Oakville, Onterrible! (And the notorious ‘Action Jackson’ makes a cameo as well!)
+
+        So slooshy well, my little Droogies.
+
+        Slooshy well.
+
+        — Stuart Feedback Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-006-the-zeroes-part-3.mp3"
+        length="323700000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/the-zeros-3d.png"/>
+    </item>
+
+    <!-- THE ZEROES: EPISODE TWO — ATTACK OF THE CHONES | Episode 5 -->
+    <item>
+      <title>THE ZEROES: EPISODE TWO — ATTACK OF THE CHONES | Episode 5</title>
+      <description><![CDATA[
+        THE AGONY AND THE ECSTASY
+
+        We’re back to once again scale the sublime cinematic heights and plunder the dreck-strewn depths of the decade known as ‘The Zeroes.’
+
+        And when I say, Attack of the Chones, I’m not necessarily referring to myself or any of the contributors. I just couldn’t resist riffing on what was easily one of the worst films of the past decade, if not of all time.
+
+        But for this go round, we proudly boast the vocal talents of Jessa Sobczuk (Rue Morgue Magazine), Mario Degiglio-Bellemare (Volatile Works) and the ‘Princes of Prestonsburg’ themselves, The Creepy Kentuckian & Uncle Bill (Dead Pit Radio).
+
+        Special thanks to Craig Clark and Claire Sawyer for all the wild graphics.
+
+        Slooshy well,
+
+        :- Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-005-the-zeroes-2.mp3"
+        length="289500000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/the-zeros-2-attack-chones.png"/>
+    </item>
+
+    <!-- THE ZEROES! BEST & WORST OF THE DECADE | Episode 4 -->
+    <item>
+      <title>THE ZEROES! BEST & WORST OF THE DECADE | Episode 4</title>
+      <description><![CDATA[
+        IT WAS THE BEST OF TIMES, IT WAS THE WORST OF TIMES…
+
+        It was the first decade of the 21st Century but now it’s gone, just like a stream of cat atoms flying through space. And like many of you, I’m still not sure what to call it. Was it ‘The 2000’s,’ ‘The Noughts’ or ‘The Noughties?’ Personally, I think a more fitting moniker is ‘The Zeroes!’
+
+        So to mark the passing of this dearly departed decade, I invited a collection of friends, colleagues, sworn enemies and known felons to give me their ‘Best and Worst’ film picks of the past ten years. Of course, coming up with a definitive list is practically impossible to do without suffering a near-fatal brain hemorrhage, so I asked instead for a list of ‘Reasonable Contenders’ and I can tell you that the results are often surprising, sometimes staggering and frequently depressing.
+
+        This episode marks the beginning of a series of shows collectively titled, The Zeroes: Best and Worst of the Decade and features the vocal talents of Last Chance Lance (Rue Morgue Radio), Mike Felsher (Red Shirt Pictures), Peter Kuplowsky (Toronto After Dark Film Festival) and last but not least, the Teutonic Terror himself, the Deutschland Destroyer, the one and only Dr. Uwe Boll (House of the Dead, Postal).
+
+        Slooshy well!
+
+        — Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-004-the-zeroes-1.mp3"
+        length="308700000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/the-zeros-1.png"/>
+    </item>
+
+    <!-- ANVIL! THE STORY OF ANVIL | Episode 3 -->
+    <item>
+      <title>ANVIL! THE STORY OF ANVIL | Episode 3</title>
+      <description><![CDATA[
+        METAL ON METAL
+
+        Back in March of 2009, I sat down with Steve ‘Lips’ Kudlow and Robb Reiner from iconic Canadian thrash metal band Anvil and the subjects of one of the greatest rock documentaries ever made: Anvil! The Story of Anvil, a film that was truly a lifetime in the making.
+
+        In the mid-80’s when Anvil were playing alongside the likes of Whitesnake, The Scorpions and Bon Jovi, they toured with a 15 year old roadie from England named Sascha Gervasi who eventually became a Hollywood big shot and when on to write The Terminal for Steven Spielberg. A few years ago, he decided to look up his old pals from Anvil and was surprised to learn that while the band had seemingly evaporated into the mists of time, they’d never broken up and were continuing to put out records.
+
+        Gervasi followed them around for about a year, documenting an ill-fated European tour and the group’s struggle to record and find distribution for their 13th studio album. What emerges is one of the most hilarious and moving portraits of a rock band ever captured on film. This flick rocked the festival circuit and the DVD release on VH1 Classic finally jettisoned the band into popular consciousness.
+
+        Anvil! The Story of Anvil has been described as the real life Spinal Tap but it’s more than that, it’s a moving testament to the importance of friendship, loyalty and holding onto your dreams especially when the world is telling you to let them go. In other words, this is the sort of movie Disney would make if their target audience was middle-aged headbangers.
+
+        Slooshy well!
+
+        — Stuart F. Andrews
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-003-anvil.mp3"
+        length="116100000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/anvil.png"/>
+    </item>
+
+    <!-- A CENTURY OF STOP-MOTION ANIMATION | Episode 2 -->
+    <item>
+      <title>A CENTURY OF STOP-MOTION ANIMATION | Episode 2</title>
+      <description><![CDATA[
+        MASTER OF THE MAJICKS
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-002-century-of-stop-motion.mp3"
+        length="133900000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/century-of-stop-motion.png"/>
+    </item>
+
+    <!-- MALCOLM MCDOWELL | Episode 1 -->
+    <item>
+      <title>MALCOLM MCDOWELL | Episode 1</title>
+      <description><![CDATA[
+        ’m kicking off the show with the spiritual Godfather of Cinephobia Radio himself, the legendary British actor Malcolm McDowell.
+      ]]></description>
+      <pubDate></pubDate>
+      <enclosure
+        url="https://craigclark.ca/cinephobia/podcast/audio/CR-001-malcolm-mcdowell.mp3"
+        length="98800000"
+        type="audio/mpeg"/>
+      <itunes:image href="https://craigclark.ca/cinephobia/podcast/images/malcolm-mcdowell.png"/>
+    </item>
+
   </channel>
 </rss>
